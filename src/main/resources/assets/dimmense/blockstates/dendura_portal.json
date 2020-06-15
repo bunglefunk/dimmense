@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dimmense:block/dendura_portal_ew"
+    },
+    "axis=x": {
+      "model": "dimmense:block/dendura_portal_ns"
+    }
+  }
+}

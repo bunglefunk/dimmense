@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dimmense:blocks/rockysoil",
+    "up": "dimmense:blocks/rockysoil",
+    "north": "dimmense:blocks/rockysoil",
+    "east": "dimmense:blocks/rockysoil",
+    "south": "dimmense:blocks/rockysoil",
+    "west": "dimmense:blocks/rockysoil",
+    "particle": "dimmense:blocks/rockysoil"
+  }
+}

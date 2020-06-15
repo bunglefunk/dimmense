@@ -1,0 +1,57 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "RockySoil",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rocky_soil"
+    },
+    {
+      "name": "Denduron",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "denduron"
+    },
+    {
+      "name": "Dendura",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dendura"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.dimmense.rocky_soil": "Rocky Soil",
+      "item.dimmense.dendura": "Basic Portal Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "dimmense",
+    "modName": "Dimmense",
+    "version": "1.0.0",
+    "author": "Jack, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.dimmense",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
